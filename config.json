@@ -71,6 +71,12 @@
         "identifier": "sent"
       },
       {
+        "name": "Yandex",
+        "method": "GET",
+        "url": "https://browser.yandex.ru/welcome-update/r/messenger?yandexuid%3D2778629551558872731=&machineid%3D694125aaee8de1002d7f83980a8a5da0=&clientid%3D9986955065470635352=&install_type=2&hide_sync=&installID=2778629551558872731_1558872754492",
+        "identifier": "true"
+      },
+      {
         "name": "nnnow",
         "method": "POST",
         "url": "https://api.nnnow.com/d/api/appDownloadLink",
